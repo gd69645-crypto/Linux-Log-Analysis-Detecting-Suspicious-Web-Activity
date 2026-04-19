@@ -1,5 +1,5 @@
 # Linux-Log-Analysis-Detecting-Suspicious-Web-Activity
-This project, I used basic Linux commands to analyze a web server access log and identify suspicious activity. The goal was to simulate a SOC analyst investigating potential malicious behavior. 🧠 Tools Used: Linux Terminal cat ls pwd grep wc.Steps Performed:
+This project, I used basic Linux commands to analyze a web server access log and identify suspicious activity in Ubuntu .The goal was to simulate a SOC analyst investigating potential malicious behavior. 🧠 Tools Used: Linux Terminal cat ls pwd grep wc.Steps Performed:
 Navigated the system using:
 Bash
 pwd
